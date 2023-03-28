@@ -1,12 +1,12 @@
 # Rstudio-and-PowerBi
-#Import  a CSV file
-#Clean Data with Rstudio
-#Load Library in RSTUDIO
-#dROP MISSING VALUE
-#Summary statistics
-#Bivariate Analysis
-#Scatter plot and chart
-#Visualisation with PowerBi
+# Import  a CSV file
+# Clean Data with Rstudio
+# Load Library in RSTUDIO
+# DROP MISSING VALUE
+# Summary statistics
+# Bivariate Analysis
+# Scatter plot and chart
+# Visualisation with PowerBi
 
 
 
